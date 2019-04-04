@@ -1,0 +1,8 @@
+[user]
+	name = CurC
+	email = csochinjensem@gmail.com
+[credential]
+	helper = wincred
+[core]
+	excludesfile = ~/.gitignore_global
+	editor = 'c:/Program Files/Sublime Text 3/subl.exe' -w
